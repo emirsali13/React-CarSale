@@ -17,7 +17,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/react-carsale.git
+    git clone https://github.com/emirsali13/react-carsale.git
     ```
 
 2. Navigate to the project directory:
