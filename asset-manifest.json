@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-CarSale/static/css/main.484d5793.css",
+    "main.js": "/React-CarSale/static/js/main.c95d2dfd.js",
+    "index.html": "/React-CarSale/index.html",
+    "main.484d5793.css.map": "/React-CarSale/static/css/main.484d5793.css.map",
+    "main.c95d2dfd.js.map": "/React-CarSale/static/js/main.c95d2dfd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.484d5793.css",
+    "static/js/main.c95d2dfd.js"
+  ]
+}
